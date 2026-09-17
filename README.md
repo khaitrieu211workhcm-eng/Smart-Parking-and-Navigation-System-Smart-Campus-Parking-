@@ -21,6 +21,7 @@ Xây dựng ứng dụng cốt lõi ổn định, quản lý bộ nhớ động 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53dbe8fa-272f-484a-be3a-89112ba14d12" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6168512-9aee-4953-8831-a80880f87f7b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7db27807-2f04-4083-a34c-b82918396e16" />
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7881d456-2bad-41ca-a4f8-90b5d8e73b73" />
+
 
 
