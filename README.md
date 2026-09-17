@@ -16,4 +16,5 @@ Hàng đợi ưu tiên (Min-Heap) và Ngăn xếp (Stack): Giải quyết bài t
 - Tìm kiếm mờ (Fuzzy Search): Ứng dụng khoảng cách Levenshtein để đề xuất 3 biển số tương đồng nhất, khắc phục lỗi nhiễu camera hoặc mất thẻ.
   
 **Kết quả:**
+
 Xây dựng ứng dụng cốt lõi ổn định, quản lý bộ nhớ động chặt chẽ, đảm bảo toàn vẹn dữ liệu làm tiền đề tích hợp giao diện đồ họa.
